@@ -9,7 +9,7 @@
     <div align="center"><img style="height:140px"  src="https://user-images.githubusercontent.com/115498370/213621654-0867308a-6c6b-4ef4-ae34-2fe0a82127d4.png"></div>                                                                                                       
 
 <div style="display:inline; width:100%" align="center">
-    <h2 style="margin-top:0">My skillset</h2>
+    <h2>My skillset</h2>
 <img style="height:25px" src="https://user-images.githubusercontent.com/115498370/213618544-208e98b9-a32b-4d48-b01b-8a9253d5c67d.png">
 <img style="height:25px" src="https://user-images.githubusercontent.com/115498370/213618054-5395128e-ff05-4697-aaed-54494c4a03b6.png">
 <img style="height:25px" src="https://user-images.githubusercontent.com/115498370/213618668-a2f772e1-8cc0-4067-84bd-734d2a5198a8.png">
