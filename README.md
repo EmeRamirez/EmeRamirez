@@ -3,7 +3,8 @@
         <h2>Hello guys 👋</h2>
         <p>I'm <b>@EmeRamirez</b>, i'm from Viña del Mar, Chile.</p>
         <p>I'm on the middle of a journey to learning about software development, writing code and crafting good beers.</p>
-        <p>I’m looking to collaborate on any projects to train my JS coding.</p>
+        <p>Working in some projects as a member of a Full Stack Javascript Bootcamp.</p> 
+        <p>Looking to collaborate on any projects to train my JS coding.</p>
         <a href="mailto:emerson.ramirez.s@gmail.com">emerson.ramirez.s@gmail.com</a>
     </div>
     <div align="center"><img style="height:140px"  src="https://user-images.githubusercontent.com/115498370/213621654-0867308a-6c6b-4ef4-ae34-2fe0a82127d4.png"></div>                                                                                                       
