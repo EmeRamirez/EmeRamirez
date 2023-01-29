@@ -1,8 +1,9 @@
 
 <div align="left">
         <h2>Hello guys 👋</h2>
-        <p>I'm <b>@EmeRamirez</b>, i'm from Viña del Mar, Chile.</p>
-        <p>I'm on the middle of a journey to learning about software development, writing code and crafting good beers.</p>
+        <p>I'm <b>@EmeRamirez</b></p> 
+        <p>Viña del Mar, Chile.</p>
+        <p>On the middle of a journey to learning about software development, writing code and crafting good beers.</p>
         <p>Working in some projects as a member of a Full Stack Javascript Bootcamp.</p> 
         <p>Looking to collaborate on any projects to train my JS coding.</p>
         <a href="mailto:emerson.ramirez.s@gmail.com">emerson.ramirez.s@gmail.com</a>
