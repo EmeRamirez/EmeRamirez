@@ -1,6 +1,6 @@
 
 <div align="left">
-        <h2>Hello guys 👋</h2>
+        <h2>Hi! 👋</h2>
         <p>I'm <b>@EmeRamirez</b></p> 
         <p>from Viña del Mar, Chile.</p>
         <p>I'm on the middle of a journey to learning about software development, writing code and crafting good beers.</p>
