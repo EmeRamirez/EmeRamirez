@@ -1,10 +1,11 @@
 
 <div align="left">
         <h2>Hi! 👋</h2>
+        <h4>⚠️ Outdated profile (commits on GitLab since July 2023)</h4>
         <p>I'm <b>@EmeRamirez</b></p> 
         <p>from Viña del Mar, Chile.</p>
         <p>I'm on the middle of a journey to learning about software development, writing code and crafting good beers.</p>
-        <p>Working in some projects as Full Stack developer at UTFSM. So, 99% of my recent commits since early 2023, are in GitLab.</p> 
+        <p>Working in some projects as Full Stack developer at UTFSM.</p> 
         <p>Actually using React + FastApi + Azure services stack </p>
         <a href="mailto:emerson.ramirez.s@gmail.com">emerson.ramirez.s@gmail.com</a>
     </div>
