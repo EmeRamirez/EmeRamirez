@@ -5,7 +5,7 @@
         <p>from Viña del Mar, Chile.</p>
         <p>I'm on the middle of a journey to learning about software development, writing code and crafting good beers.</p>
         <p>Working in some projects as Full Stack developer at UTFSM. So, 99% of my recent commits since early 2023, are in GitLab.</p> 
-        <p>Looking to collaborate on any projects to train my JS coding.</p>
+        <p>Actually using React + FastApi + Azure services stack </p>
         <a href="mailto:emerson.ramirez.s@gmail.com">emerson.ramirez.s@gmail.com</a>
     </div>
     <div align="center"><img style="height:140px"  src="https://user-images.githubusercontent.com/115498370/213621654-0867308a-6c6b-4ef4-ae34-2fe0a82127d4.png"></div>                                                                                                       
@@ -15,6 +15,7 @@
 <img style="height:25px" src="https://user-images.githubusercontent.com/115498370/213618544-208e98b9-a32b-4d48-b01b-8a9253d5c67d.png">
 <img style="height:25px" src="https://user-images.githubusercontent.com/115498370/213618054-5395128e-ff05-4697-aaed-54494c4a03b6.png">
 <img style="height:25px" src="https://user-images.githubusercontent.com/115498370/213618668-a2f772e1-8cc0-4067-84bd-734d2a5198a8.png">
+<img style="height:25px" src="https://github.com/user-attachments/assets/055ff63d-2cff-4c8e-a978-994c164df7bf">        
 <img style="height:27px" src="https://github.com/EmeRamirez/EmeRamirez/assets/115498370/d21effcb-a04a-46f3-aa22-c55e12a66812">
 <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png">
 <img style="height:25px" src="https://github.com/EmeRamirez/EmeRamirez/assets/115498370/7a6b4479-0cd3-4cb5-8aaf-d7e30e9dc730">      
@@ -25,6 +26,8 @@
 <img style="height:25px" src="https://user-images.githubusercontent.com/115498370/230258658-46c149d4-9d04-4872-abf1-e223d025dd2b.svg">
 <img style="height:25px" src="https://github.com/EmeRamirez/EmeRamirez/assets/115498370/ad3f5ee1-fac8-4147-9e37-9bc55b79438b">
 <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">
+<img style="height:25px" src="https://github.com/user-attachments/assets/c0e2c261-4147-449c-90d1-d09716130c53">
+<img style="height:25px" src="https://github.com/user-attachments/assets/8c0e8cd1-fe58-49ec-9a67-30ac0f34474d">
 <img style="height:25px" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png">
         
 </div>
